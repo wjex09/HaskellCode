@@ -1,6 +1,7 @@
 Learning Haskell and trying to write a scheme in Haskell 
 
-Resources : 
+Resources :
+
 > Learn you a Haskell (learnyouahaskell.com/chapters)
 
 > Write yourself a scheme in 48 hrs

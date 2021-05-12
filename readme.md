@@ -1,1 +1,1 @@
-Learning Haskell
+- Learning Haskell
